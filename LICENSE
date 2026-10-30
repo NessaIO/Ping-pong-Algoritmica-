@@ -1,373 +1,599 @@
-Mozilla Public License Version 2.0
-==================================
-
-1. Definitions
---------------
-
-1.1. "Contributor"
-    means each individual or legal entity that creates, contributes to
-    the creation of, or owns Covered Software.
-
-1.2. "Contributor Version"
-    means the combination of the Contributions of others (if any) used
-    by a Contributor and that particular Contributor's Contribution.
-
-1.3. "Contribution"
-    means Covered Software of a particular Contributor.
-
-1.4. "Covered Software"
-    means Source Code Form to which the initial Contributor has attached
-    the notice in Exhibit A, the Executable Form of such Source Code
-    Form, and Modifications of such Source Code Form, in each case
-    including portions thereof.
-
-1.5. "Incompatible With Secondary Licenses"
-    means
-
-    (a) that the initial Contributor has attached the notice described
-        in Exhibit B to the Covered Software; or
-
-    (b) that the Covered Software was made available under the terms of
-        version 1.1 or earlier of the License, but not also under the
-        terms of a Secondary License.
-
-1.6. "Executable Form"
-    means any form of the work other than Source Code Form.
-
-1.7. "Larger Work"
-    means a work that combines Covered Software with other material, in
-    a separate file or files, that is not Covered Software.
-
-1.8. "License"
-    means this document.
-
-1.9. "Licensable"
-    means having the right to grant, to the maximum extent possible,
-    whether at the time of the initial grant or subsequently, any and
-    all of the rights conveyed by this License.
-
-1.10. "Modifications"
-    means any of the following:
-
-    (a) any file in Source Code Form that results from an addition to,
-        deletion from, or modification of the contents of Covered
-        Software; or
-
-    (b) any new file in Source Code Form that contains any Covered
-        Software.
-
-1.11. "Patent Claims" of a Contributor
-    means any patent claim(s), including without limitation, method,
-    process, and apparatus claims, in any patent Licensable by such
-    Contributor that would be infringed, but for the grant of the
-    License, by the making, using, selling, offering for sale, having
-    made, import, or transfer of either its Contributions or its
-    Contributor Version.
-
-1.12. "Secondary License"
-    means either the GNU General Public License, Version 2.0, the GNU
-    Lesser General Public License, Version 2.1, the GNU Affero General
-    Public License, Version 3.0, or any later versions of those
-    licenses.
-
-1.13. "Source Code Form"
-    means the form of the work preferred for making modifications.
-
-1.14. "You" (or "Your")
-    means an individual or a legal entity exercising rights under this
-    License. For legal entities, "You" includes any entity that
-    controls, is controlled by, or is under common control with You. For
-    purposes of this definition, "control" means (a) the power, direct
-    or indirect, to cause the direction or management of such entity,
-    whether by contract or otherwise, or (b) ownership of more than
-    fifty percent (50%) of the outstanding shares or beneficial
-    ownership of such entity.
-
-2. License Grants and Conditions
---------------------------------
-
-2.1. Grants
-
-Each Contributor hereby grants You a world-wide, royalty-free,
-non-exclusive license:
-
-(a) under intellectual property rights (other than patent or trademark)
-    Licensable by such Contributor to use, reproduce, make available,
-    modify, display, perform, distribute, and otherwise exploit its
-    Contributions, either on an unmodified basis, with Modifications, or
-    as part of a Larger Work; and
-
-(b) under Patent Claims of such Contributor to make, use, sell, offer
-    for sale, have made, import, and otherwise transfer either its
-    Contributions or its Contributor Version.
-
-2.2. Effective Date
-
-The licenses granted in Section 2.1 with respect to any Contribution
-become effective for each Contribution on the date the Contributor first
-distributes such Contribution.
-
-2.3. Limitations on Grant Scope
-
-The licenses granted in this Section 2 are the only rights granted under
-this License. No additional rights or licenses will be implied from the
-distribution or licensing of Covered Software under this License.
-Notwithstanding Section 2.1(b) above, no patent license is granted by a
-Contributor:
-
-(a) for any code that a Contributor has removed from Covered Software;
-    or
-
-(b) for infringements caused by: (i) Your and any other third party's
-    modifications of Covered Software, or (ii) the combination of its
-    Contributions with other software (except as part of its Contributor
-    Version); or
-
-(c) under Patent Claims infringed by Covered Software in the absence of
-    its Contributions.
-
-This License does not grant any rights in the trademarks, service marks,
-or logos of any Contributor (except as may be necessary to comply with
-the notice requirements in Section 3.4).
-
-2.4. Subsequent Licenses
-
-No Contributor makes additional grants as a result of Your choice to
-distribute the Covered Software under a subsequent version of this
-License (see Section 10.2) or under the terms of a Secondary License (if
-permitted under the terms of Section 3.3).
-
-2.5. Representation
-
-Each Contributor represents that the Contributor believes its
-Contributions are its original creation(s) or it has sufficient rights
-to grant the rights to its Contributions conveyed by this License.
-
-2.6. Fair Use
-
-This License is not intended to limit any rights You have under
-applicable copyright doctrines of fair use, fair dealing, or other
-equivalents.
-
-2.7. Conditions
-
-Sections 3.1, 3.2, 3.3, and 3.4 are conditions of the licenses granted
-in Section 2.1.
-
-3. Responsibilities
--------------------
-
-3.1. Distribution of Source Form
-
-All distribution of Covered Software in Source Code Form, including any
-Modifications that You create or to which You contribute, must be under
-the terms of this License. You must inform recipients that the Source
-Code Form of the Covered Software is governed by the terms of this
-License, and how they can obtain a copy of this License. You may not
-attempt to alter or restrict the recipients' rights in the Source Code
-Form.
-
-3.2. Distribution of Executable Form
-
-If You distribute Covered Software in Executable Form then:
-
-(a) such Covered Software must also be made available in Source Code
-    Form, as described in Section 3.1, and You must inform recipients of
-    the Executable Form how they can obtain a copy of such Source Code
-    Form by reasonable means in a timely manner, at a charge no more
-    than the cost of distribution to the recipient; and
-
-(b) You may distribute such Executable Form under the terms of this
-    License, or sublicense it under different terms, provided that the
-    license for the Executable Form does not attempt to limit or alter
-    the recipients' rights in the Source Code Form under this License.
-
-3.3. Distribution of a Larger Work
-
-You may create and distribute a Larger Work under terms of Your choice,
-provided that You also comply with the requirements of this License for
-the Covered Software. If the Larger Work is a combination of Covered
-Software with a work governed by one or more Secondary Licenses, and the
-Covered Software is not Incompatible With Secondary Licenses, this
-License permits You to additionally distribute such Covered Software
-under the terms of such Secondary License(s), so that the recipient of
-the Larger Work may, at their option, further distribute the Covered
-Software under the terms of either this License or such Secondary
-License(s).
-
-3.4. Notices
-
-You may not remove or alter the substance of any license notices
-(including copyright notices, patent notices, disclaimers of warranty,
-or limitations of liability) contained within the Source Code Form of
-the Covered Software, except that You may alter any license notices to
-the extent required to remedy known factual inaccuracies.
-
-3.5. Application of Additional Terms
-
-You may choose to offer, and to charge a fee for, warranty, support,
-indemnity or liability obligations to one or more recipients of Covered
-Software. However, You may do so only on Your own behalf, and not on
-behalf of any Contributor. You must make it absolutely clear that any
-such warranty, support, indemnity, or liability obligation is offered by
-You alone, and You hereby agree to indemnify every Contributor for any
-liability incurred by such Contributor as a result of warranty, support,
-indemnity or liability terms You offer. You may include additional
-disclaimers of warranty and limitations of liability specific to any
-jurisdiction.
-
-4. Inability to Comply Due to Statute or Regulation
----------------------------------------------------
-
-If it is impossible for You to comply with any of the terms of this
-License with respect to some or all of the Covered Software due to
-statute, judicial order, or regulation then You must: (a) comply with
-the terms of this License to the maximum extent possible; and (b)
-describe the limitations and the code they affect. Such description must
-be placed in a text file included with all distributions of the Covered
-Software under this License. Except to the extent prohibited by statute
-or regulation, such description must be sufficiently detailed for a
-recipient of ordinary skill to be able to understand it.
-
-5. Termination
---------------
-
-5.1. The rights granted under this License will terminate automatically
-if You fail to comply with any of its terms. However, if You become
-compliant, then the rights granted under this License from a particular
-Contributor are reinstated (a) provisionally, unless and until such
-Contributor explicitly and finally terminates Your grants, and (b) on an
-ongoing basis, if such Contributor fails to notify You of the
-non-compliance by some reasonable means prior to 60 days after You have
-come back into compliance. Moreover, Your grants from a particular
-Contributor are reinstated on an ongoing basis if such Contributor
-notifies You of the non-compliance by some reasonable means, this is the
-first time You have received notice of non-compliance with this License
-from such Contributor, and You become compliant prior to 30 days after
-Your receipt of the notice.
-
-5.2. If You initiate litigation against any entity by asserting a patent
-infringement claim (excluding declaratory judgment actions,
-counter-claims, and cross-claims) alleging that a Contributor Version
-directly or indirectly infringes any patent, then the rights granted to
-You by any and all Contributors for the Covered Software under Section
-2.1 of this License shall terminate.
-
-5.3. In the event of termination under Sections 5.1 or 5.2 above, all
-end user license agreements (excluding distributors and resellers) which
-have been validly granted by You or Your distributors under this License
-prior to termination shall survive termination.
-
-************************************************************************
-*                                                                      *
-*  6. Disclaimer of Warranty                                           *
-*  -------------------------                                           *
-*                                                                      *
-*  Covered Software is provided under this License on an "as is"       *
-*  basis, without warranty of any kind, either expressed, implied, or  *
-*  statutory, including, without limitation, warranties that the       *
-*  Covered Software is free of defects, merchantable, fit for a        *
-*  particular purpose or non-infringing. The entire risk as to the     *
-*  quality and performance of the Covered Software is with You.        *
-*  Should any Covered Software prove defective in any respect, You     *
-*  (not any Contributor) assume the cost of any necessary servicing,   *
-*  repair, or correction. This disclaimer of warranty constitutes an   *
-*  essential part of this License. No use of any Covered Software is   *
-*  authorized under this License except under this disclaimer.         *
-*                                                                      *
-************************************************************************
-
-************************************************************************
-*                                                                      *
-*  7. Limitation of Liability                                          *
-*  --------------------------                                          *
-*                                                                      *
-*  Under no circumstances and under no legal theory, whether tort      *
-*  (including negligence), contract, or otherwise, shall any           *
-*  Contributor, or anyone who distributes Covered Software as          *
-*  permitted above, be liable to You for any direct, indirect,         *
-*  special, incidental, or consequential damages of any character      *
-*  including, without limitation, damages for lost profits, loss of    *
-*  goodwill, work stoppage, computer failure or malfunction, or any    *
-*  and all other commercial damages or losses, even if such party      *
-*  shall have been informed of the possibility of such damages. This   *
-*  limitation of liability shall not apply to liability for death or   *
-*  personal injury resulting from such party's negligence to the       *
-*  extent applicable law prohibits such limitation. Some               *
-*  jurisdictions do not allow the exclusion or limitation of           *
-*  incidental or consequential damages, so this exclusion and          *
-*  limitation may not apply to You.                                    *
-*                                                                      *
-************************************************************************
-
-8. Litigation
--------------
-
-Any litigation relating to this License may be brought only in the
-courts of a jurisdiction where the defendant maintains its principal
-place of business and such litigation shall be governed by laws of that
-jurisdiction, without reference to its conflict-of-law provisions.
-Nothing in this Section shall prevent a party's ability to bring
-cross-claims or counter-claims.
-
-9. Miscellaneous
-----------------
-
-This License represents the complete agreement concerning the subject
-matter hereof. If any provision of this License is held to be
-unenforceable, such provision shall be reformed only to the extent
-necessary to make it enforceable. Any law or regulation which provides
-that the language of a contract shall be construed against the drafter
-shall not be used to construe this License against a Contributor.
-
-10. Versions of the License
----------------------------
-
-10.1. New Versions
-
-Mozilla Foundation is the license steward. Except as provided in Section
-10.3, no one other than the license steward has the right to modify or
-publish new versions of this License. Each version will be given a
-distinguishing version number.
-
-10.2. Effect of New Versions
-
-You may distribute the Covered Software under the terms of the version
-of the License under which You originally received the Covered Software,
-or under the terms of any subsequent version published by the license
-steward.
-
-10.3. Modified Versions
-
-If you create software not governed by this License, and you want to
-create a new license for such software, you may create and use a
-modified version of this License if you rename the license and remove
-any references to the name of the license steward (except to note that
-such modified license differs from this License).
-
-10.4. Distributing Source Code Form that is Incompatible With Secondary
-Licenses
-
-If You choose to distribute Source Code Form that is Incompatible With
-Secondary Licenses under the terms of this version of the License, the
-notice described in Exhibit B of this License must be attached.
-
-Exhibit A - Source Code Form License Notice
--------------------------------------------
-
-  This Source Code Form is subject to the terms of the Mozilla Public
-  License, v. 2.0. If a copy of the MPL was not distributed with this
-  file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
-If it is not possible or desirable to put the notice in a particular
-file, then You may include the notice in a location (such as a LICENSE
-file in a relevant directory) where a recipient would be likely to look
-for such a notice.
-
-You may add additional accurate notices of copyright ownership.
-
-Exhibit B - "Incompatible With Secondary Licenses" Notice
----------------------------------------------------------
-
-  This Source Code Form is "Incompatible With Secondary Licenses", as
-  defined by the Mozilla Public License, v. 2.0.
+import math
+import random
+from dataclasses import dataclass
+from typing import Dict, List, Tuple, Optional
+
+import numpy as np
+import torch
+import torch.nn as nn
+import torch.nn.functional as F
+from torch.distributions import Categorical
+
+
+# =====================================================================
+# 1. КОНФИГУРАЦИЯ ГИПЕРПАРАМЕТРОВ И АРХИТЕКТУРЫ
+# =====================================================================
+@dataclass
+class DotaAIConfig:
+    # Параметры пространства состояний (Observation Space)
+    global_state_dim: int = 16       # Время матча, счет, состояние Рошана, рун и вышек
+    hero_state_dim: int = 64         # Характеристики нашего героя (HP, MP, статы, кулдауны, слоты)
+    unit_state_dim: int = 32         # Характеристики видимых юнитов (союзники, враги, крипы, башни)
+    max_units: int = 40              # Максимальное число юнитов в радиусе видимости
+
+    # Параметры пространства действий (Hierarchical Action Space)
+    num_action_types: int = 10       # 0:Wait, 1:Move, 2:Attack, 3..6:Skills(Q,W,E,R), 7..9:Items
+    move_grid_x: int = 9             # Дискретизация смещения по X (-4 .. +4)
+    move_grid_y: int = 9             # Дискретизация смещения по Y (-4 .. +4)
+    max_delay_steps: int = 4         # Задержка перед выполнением (тик-сдвиг)
+
+    # Параметры нейросети
+    embed_dim: int = 256             # Размерность внутренних представлений
+    num_attention_heads: int = 4     # Количество голов внимания в трансформере юнитов
+    lstm_hidden_dim: int = 512       # Размерность скрытого слоя памяти LSTM (в OpenAI Five = 4096)
+
+    # Гиперпараметры обучения PPO + GAE
+    lr: float = 3e-4                 # Скорость обучения (Learning Rate)
+    gamma: float = 0.995             # Дисконтирование будущих наград (долгий горизонт планирования)
+    gae_lambda: float = 0.95         # Параметр сглаживания GAE
+    clip_eps: float = 0.2            # Коэффициент клиппинга PPO
+    entropy_coef: float = 0.01       # Бонус за исследование среды (энтропия)
+    value_loss_coef: float = 0.5     # Вес ошибки критика (Value Function)
+    max_grad_norm: float = 0.5       # Ограничение нормы градиента
+    team_spirit: float = 0.3         # Коэффициент командного духа (0.0 - эгоист, 1.0 - вся команда)
+
+    # Параметры сбора данных
+    rollout_steps: int = 128         # Шагов на одну итерацию сбора
+    ppo_epochs: int = 4              # Эпох обучения на собранном буфере
+    mini_batch_size: int = 32        # Размер мини-батча
+    device: str = "cuda" if torch.cuda.is_available() else "cpu"
+
+
+# =====================================================================
+# 2. ЭМУЛЯТОР СРЕДЫ DOTA 2 (ДЛЯ АВТОНОМНОГО ТЕСТИРОВАНИЯ И ОБУЧЕНИЯ)
+# =====================================================================
+class Dota2SimulatedEnv:
+    """
+    Имитирует структуру данных, возвращаемую Dota 2 Bot Scripting API / Protobuf.
+    Генерирует неполные наблюдения (туман войны), маски доступности скиллов и считает Reward.
+    """
+    def __init__(self, config: DotaAIConfig):
+        self.cfg = config
+        self.step_count = 0
+        self.max_steps = 1000
+
+        # Состояние героя: [x, y, hp_pct, mana_pct, gold, xp, cd_q, cd_w, cd_e, cd_r]
+        self.hero_pos = np.array([0.0, 0.0], dtype=np.float32)
+        self.hero_hp = 1.0
+        self.hero_mana = 1.0
+        self.cooldowns = np.zeros(4, dtype=np.float32)
+
+    def reset(self) -> Dict[str, np.ndarray]:
+        self.step_count = 0
+        self.hero_pos = np.random.uniform(-50, 50, size=2).astype(np.float32)
+        self.hero_hp = 1.0
+        self.hero_mana = 1.0
+        self.cooldowns = np.zeros(4, dtype=np.float32)
+        return self._get_observation()
+
+    def _get_observation(self) -> Dict[str, np.ndarray]:
+        # 1. Глобальное состояние карты
+        global_state = np.random.randn(self.cfg.global_state_dim).astype(np.float32) * 0.1
+        global_state[0] = self.step_count / self.max_steps  # Нормализованное время игры
+
+        # 2. Вектор управляемого героя
+        hero_state = np.random.randn(self.cfg.hero_state_dim).astype(np.float32) * 0.1
+        hero_state[0:2] = self.hero_pos / 100.0
+        hero_state[2] = self.hero_hp
+        hero_state[3] = self.hero_mana
+        hero_state[4:8] = self.cooldowns
+
+        # 3. Матрица окружающих юнитов и маска видимости (Туман Войны)
+        num_visible_units = random.randint(5, self.cfg.max_units)
+        units_state = np.zeros((self.cfg.max_units, self.cfg.unit_state_dim), dtype=np.float32)
+        unit_mask = np.zeros(self.cfg.max_units, dtype=np.bool_)
+
+        for i in range(num_visible_units):
+            units_state[i] = np.random.randn(self.cfg.unit_state_dim).astype(np.float32) * 0.5
+            # Запишем относительную дистанцию до героя в первые два признака юнита
+            unit_pos = self.hero_pos + np.random.uniform(-30, 30, size=2)
+            units_state[i, 0:2] = (unit_pos - self.hero_pos) / 50.0
+            units_state[i, 2] = np.random.uniform(0.05, 1.0)  # HP юнита
+            unit_mask[i] = True  # Юнит видим и может быть выбран целью
+
+        # 4. Маска разрешенных типов действий (Action Masking)
+        # Если способность на кулдауне или не хватает маны — маскируем её (False)
+        action_type_mask = np.ones(self.cfg.num_action_types, dtype=np.bool_)
+        for skill_idx in range(4):
+            if self.cooldowns[skill_idx] > 0 or self.hero_mana < 0.15:
+                action_type_mask[3 + skill_idx] = False
+
+        return {
+            "global_state": global_state,
+            "hero_state": hero_state,
+            "units_state": units_state,
+            "unit_mask": unit_mask,
+            "action_type_mask": action_type_mask
+        }
+
+    def step(self, action: Dict[str, int]) -> Tuple[Dict[str, np.ndarray], float, float, bool]:
+        """
+        Принимает составное действие, обновляет физику симуляции и возвращает:
+        (next_obs, individual_reward, team_avg_reward, done)
+        """
+        self.step_count += 1
+        act_type = action["action_type"]
+        move_x = action["move_x"] - (self.cfg.move_grid_x // 2)
+        move_y = action["move_y"] - (self.cfg.move_grid_y // 2)
+        target_idx = action["target_unit"]
+
+        # Уменьшаем кулдауны и регенерируем ману
+        self.cooldowns = np.maximum(0.0, self.cooldowns - 1.0)
+        self.hero_mana = min(1.0, self.hero_mana + 0.02)
+
+        # Расчет вознаграждения (Reward Shaping по аналогии с OpenAI Five)
+        ind_reward = 0.0
+
+        if act_type == 1:  # Движение
+            self.hero_pos += np.array([move_x, move_y], dtype=np.float32)
+            ind_reward += 0.01  # Небольшой бонус за позиционирование
+        elif act_type == 2:  # Атака по цели (Ластхит / Харасс)
+            ind_reward += random.choice([0.1, 0.5, -0.05])  # Имитация успешного добивания крипа
+        elif 3 <= act_type <= 6:  # Использование способностей (Q, W, E, R)
+            skill_id = act_type - 3
+            self.cooldowns[skill_id] = 5.0 + skill_id * 3.0
+            self.hero_mana = max(0.0, self.hero_mana - 0.2)
+            ind_reward += 0.8 if skill_id == 3 else 0.3  # Награда за эффективный каст
+
+        # Штраф за получение урона в опасной зоне
+        if np.linalg.norm(self.hero_pos) > 80.0:
+            self.hero_hp -= 0.1
+            ind_reward -= 0.5
+
+        team_reward = np.random.normal(0.05, 0.1)  # Имитация действий остальных 4 союзников
+
+        done = (self.step_count >= self.max_steps) or (self.hero_hp <= 0.0)
+        if self.hero_hp <= 0.0:
+            ind_reward -= 5.0  # Крупный штраф за смерть героя
+
+        return self._get_observation(), float(ind_reward), float(team_reward), done
+
+
+# =====================================================================
+# 3. АРХИТЕКТУРА НЕЙРОННОЙ СЕТИ (ATTENTION + LSTM + POINTER NETWORK)
+# =====================================================================
+class EntityAttentionEncoder(nn.Module):
+    """
+    Обрабатывает список всех видимых юнитов на экране через механизм Self-Attention,
+    позволяя модели оценивать позиционку в тимфайте независимо от порядка юнитов в массиве.
+    """
+    def __init__(self, config: DotaAIConfig):
+        super().__init__()
+        self.unit_proj = nn.Sequential(
+            nn.Linear(config.unit_state_dim, config.embed_dim),
+            nn.LayerNorm(config.embed_dim),
+            nn.ReLU()
+        )
+        self.attention = nn.MultiheadAttention(
+            embed_dim=config.embed_dim,
+            num_heads=config.num_attention_heads,
+            batch_first=True
+        )
+        self.norm = nn.LayerNorm(config.embed_dim)
+
+    def forward(self, units: torch.Tensor, unit_mask: torch.Tensor) -> Tuple[torch.Tensor, torch.Tensor]:
+        """
+        units: [Batch, Max_Units, Unit_Dim]
+        unit_mask: [Batch, Max_Units] (True = юнит существует, False = паддинг/туман войны)
+        Возвращает:
+          - unit_embeddings: [Batch, Max_Units, Embed_Dim] (для Pointer-сети выбора цели)
+          - pooled_units: [Batch, Embed_Dim] (агрегированная картина боя вокруг героя)
+        """
+        x = self.unit_proj(units)
+
+        # В PyTorch MultiheadAttention key_padding_mask требует True для ИГНОРИРУЕМЫХ элементов
+        key_padding_mask = ~unit_mask
+
+        # Защита от случая, когда вообще нет видимых юнитов (чтобы избежать NaN в Softmax)
+        all_masked = key_padding_mask.all(dim=-1, keepdim=True)
+        safe_padding_mask = key_padding_mask.masked_fill(all_masked, False)
+
+        attn_out, _ = self.attention(x, x, x, key_padding_mask=safe_padding_mask)
+        unit_embeddings = self.norm(x + attn_out)
+
+        # Маскированный Max-Pooling по всем видимым юнитам для передачи в ядро LSTM
+        mask_expanded = unit_mask.unsqueeze(-1).expand_as(unit_embeddings)
+        masked_embeddings = unit_embeddings.masked_fill(~mask_expanded, -1e9)
+        pooled_units, _ = torch.max(masked_embeddings, dim=1)
+        pooled_units = torch.where(all_masked, torch.zeros_like(pooled_units), pooled_units)
+
+        return unit_embeddings, pooled_units
+
+
+class Dota2ActorCriticNet(nn.Module):
+    """
+    Главная сеть агента:
+    1. Кодирует глобальное состояние, состояние героя и табличные данные юнитов.
+    2. Пропускает объединенный вектор через рекуррентный блок LSTM (память о вражеских кулдаунах и перемещениях).
+    3. Генерирует распределения вероятностей для каждого параметра действия (Multi-Head Policy) и оценку Value.
+    """
+    def __init__(self, config: DotaAIConfig):
+        super().__init__()
+        self.cfg = config
+
+        # Энкодеры векторов
+        self.global_encoder = nn.Sequential(
+            nn.Linear(config.global_state_dim, config.embed_dim // 2),
+            nn.LayerNorm(config.embed_dim // 2),
+            nn.ReLU()
+        )
+        self.hero_encoder = nn.Sequential(
+            nn.Linear(config.hero_state_dim, config.embed_dim),
+            nn.LayerNorm(config.embed_dim),
+            nn.ReLU()
+        )
+        self.unit_encoder = EntityAttentionEncoder(config)
+
+        # Объединение всех потоков информации перед подачей в LSTM
+        fusion_dim = (config.embed_dim // 2) + config.embed_dim + config.embed_dim
+        self.fusion_layer = nn.Sequential(
+            nn.Linear(fusion_dim, config.lstm_hidden_dim),
+            nn.LayerNorm(config.lstm_hidden_dim),
+            nn.ReLU()
+        )
+
+        # Рекуррентное ядро памяти (LSTMCell для пошагового выполнения и сэмплирования)
+        self.lstm = nn.LSTMCell(config.lstm_hidden_dim, config.lstm_hidden_dim)
+
+        # --- ИЕРАРХИЧЕСКИЕ ГОЛОВЫ ПОЛИТИКИ (ACTOR HEADS) ---
+        self.head_action_type = nn.Linear(config.lstm_hidden_dim, config.num_action_types)
+        self.head_move_x = nn.Linear(config.lstm_hidden_dim, config.move_grid_x)
+        self.head_move_y = nn.Linear(config.lstm_hidden_dim, config.move_grid_y)
+        self.head_delay = nn.Linear(config.lstm_hidden_dim, config.max_delay_steps)
+
+        # Pointer Network для выбора конкретного юнита-цели:
+        # Проецирует вектор состояния LSTM в пространство эмбеддингов юнитов и считает скалярное произведение
+        self.target_query_proj = nn.Linear(config.lstm_hidden_dim, config.embed_dim)
+
+        # --- ГОЛОВА КРИТИКА (VALUE HEAD) ---
+        self.critic_head = nn.Sequential(
+            nn.Linear(config.lstm_hidden_dim, config.embed_dim),
+            nn.ReLU(),
+            nn.Linear(config.embed_dim, 1)
+        )
+
+    def init_hidden(self, batch_size: int = 1) -> Tuple[torch.Tensor, torch.Tensor]:
+        return (
+            torch.zeros(batch_size, self.cfg.lstm_hidden_dim, device=self.cfg.device),
+            torch.zeros(batch_size, self.cfg.lstm_hidden_dim, device=self.cfg.device)
+        )
+
+    def forward(
+        self,
+        global_state: torch.Tensor,
+        hero_state: torch.Tensor,
+        units_state: torch.Tensor,
+        unit_mask: torch.Tensor,
+        action_type_mask: torch.Tensor,
+        lstm_state: Tuple[torch.Tensor, torch.Tensor]
+    ):
+        # 1. Извлечение признаков
+        g_emb = self.global_encoder(global_state)
+        h_emb = self.hero_encoder(hero_state)
+        u_embs, u_pooled = self.unit_encoder(units_state, unit_mask)
+
+        # 2. Слияние и шаг памяти LSTM
+        fused = self.fusion_layer(torch.cat([g_emb, h_emb, u_pooled], dim=-1))
+        h_next, c_next = self.lstm(fused, lstm_state)
+
+        # 3. Вычисление логитов действий с учетом масок доступности (Action Masking)
+        logits_action_type = self.head_action_type(h_next)
+        logits_action_type = logits_action_type.masked_fill(~action_type_mask, -1e9)
+
+        logits_move_x = self.head_move_x(h_next)
+        logits_move_y = self.head_move_y(h_next)
+        logits_delay = self.head_delay(h_next)
+
+        # 4. Механизм указателя (Pointer Attention) для выбора юнита-мишени
+        # Запрос от LSTM: [Batch, 1, Embed_Dim] x Ключи юнитов: [Batch, Embed_Dim, Max_Units]
+        query = self.target_query_proj(h_next).unsqueeze(1)
+        logits_target_unit = torch.bmm(query, u_embs.transpose(1, 2)).squeeze(1) / math.sqrt(self.cfg.embed_dim)
+        logits_target_unit = logits_target_unit.masked_fill(~unit_mask, -1e9)
+
+        # 5. Оценка ценности текущего состояния (Value V(s))
+        value = self.critic_head(h_next).squeeze(-1)
+
+        logits_dict = {
+            "action_type": logits_action_type,
+            "move_x": logits_move_x,
+            "move_y": logits_move_y,
+            "target_unit": logits_target_unit,
+            "delay": logits_delay
+        }
+
+        return logits_dict, value, (h_next, c_next)
+
+    def get_action_and_value(
+        self,
+        obs: Dict[str, torch.Tensor],
+        lstm_state: Tuple[torch.Tensor, torch.Tensor],
+        deterministic: bool = False,
+        provided_actions: Optional[Dict[str, torch.Tensor]] = None
+    ):
+        """
+        Используется как для выбора действия во время игры (сэмплирование),
+        так и для подсчета логарифмов вероятностей и энтропии во время оптимизации PPO.
+        """
+        logits_dict, value, next_lstm_state = self.forward(
+            obs["global_state"],
+            obs["hero_state"],
+            obs["units_state"],
+            obs["unit_mask"],
+            obs["action_type_mask"],
+            lstm_state
+        )
+
+        actions = {}
+        log_probs = []
+        entropies = []
+
+        for key, logits in logits_dict.items():
+            dist = Categorical(logits=logits)
+            if provided_actions is None:
+                act = torch.argmax(logits, dim=-1) if deterministic else dist.sample()
+            else:
+                act = provided_actions[key]
+
+            actions[key] = act
+            log_probs.append(dist.log_prob(act))
+            entropies.append(dist.entropy())
+
+        # Суммарная логарифмическая вероятность многомерного действия: log P(A|S) = sum log P(a_i|S)
+        total_log_prob = torch.stack(log_probs, dim=-1).sum(dim=-1)
+        total_entropy = torch.stack(entropies, dim=-1).sum(dim=-1)
+
+        return actions, total_log_prob, total_entropy, value, next_lstm_state
+
+
+# =====================================================================
+# 4. БУФЕР ТРАЕКТОРИЙ И РАСЧЕТ ПРЕИМУЩЕСТВА (GAE + TEAM SPIRIT)
+# =====================================================================
+class RolloutBuffer:
+    def __init__(self, config: DotaAIConfig):
+        self.cfg = config
+        self.clear()
+
+    def clear(self):
+        self.obs_list: List[Dict[str, np.ndarray]] = []
+        self.actions_list: List[Dict[str, int]] = []
+        self.log_probs: List[float] = []
+        self.values: List[float] = []
+        self.rewards: List[float] = []
+        self.dones: List[bool] = []
+        self.lstm_h: List[np.ndarray] = []
+        self.lstm_c: List[np.ndarray] = []
+
+    def add(
+        self,
+        obs: Dict[str, np.ndarray],
+        action: Dict[str, int],
+        log_prob: float,
+        value: float,
+        ind_reward: float,
+        team_reward: float,
+        done: bool,
+        lstm_state: Tuple[torch.Tensor, torch.Tensor]
+    ):
+        # Формула Team Spirit из OpenAI Five:
+        # R_final = (1 - tau) * R_individual + tau * R_team_average
+        tau = self.cfg.team_spirit
+        combined_reward = (1.0 - tau) * ind_reward + tau * team_reward
+
+        self.obs_list.append(obs)
+        self.actions_list.append(action)
+        self.log_probs.append(log_prob)
+        self.values.append(value)
+        self.rewards.append(combined_reward)
+        self.dones.append(done)
+        self.lstm_h.append(lstm_state[0].detach().cpu().numpy().squeeze(0))
+        self.lstm_c.append(lstm_state[1].detach().cpu().numpy().squeeze(0))
+
+    def compute_returns_and_advantages(self, last_value: float) -> Tuple[torch.Tensor, torch.Tensor]:
+        """
+        Вычисляет Generalized Advantage Estimation (GAE) для снижения дисперсии градиента
+        на длинных игровых сессиях Dota 2.
+        """
+        advantages = np.zeros(len(self.rewards), dtype=np.float32)
+        last_gae_lam = 0.0
+
+        for step in reversed(range(len(self.rewards))):
+            if step == len(self.rewards) - 1:
+                next_non_terminal = 1.0 - float(self.dones[step])
+                next_value = last_value
+            else:
+                next_non_terminal = 1.0 - float(self.dones[step])
+                next_value = self.values[step + 1]
+
+            delta = self.rewards[step] + self.cfg.gamma * next_value * next_non_terminal - self.values[step]
+            last_gae_lam = delta + self.cfg.gamma * self.cfg.gae_lambda * next_non_terminal * last_gae_lam
+            advantages[step] = last_gae_lam
+
+        returns = advantages + np.array(self.values, dtype=np.float32)
+        return (
+            torch.tensor(returns, dtype=torch.float32, device=self.cfg.device),
+            torch.tensor(advantages, dtype=torch.float32, device=self.cfg.device)
+        )
+
+
+# =====================================================================
+# 5. ТРЕНЕР PPO (PROXIMAL POLICY OPTIMIZATION)
+# =====================================================================
+class DotaPPOTrainer:
+    def __init__(self, model: Dota2ActorCriticNet, config: DotaAIConfig):
+        self.model = model
+        self.cfg = config
+        self.optimizer = torch.optim.AdamW(model.parameters(), lr=config.lr, weight_decay=1e-4)
+
+    def update(self, buffer: RolloutBuffer, last_value: float) -> Dict[str, float]:
+        returns, advantages = buffer.compute_returns_and_advantages(last_value)
+        # Нормализация преимуществ для стабильности шага градиента
+        advantages = (advantages - advantages.mean()) / (advantages.std() + 1e-8)
+
+        # Упаковка батча наблюдений в тензоры
+        batch_size = len(buffer.rewards)
+        obs_tensors = {
+            key: torch.tensor(
+                np.array([o[key] for o in buffer.obs_list]),
+                device=self.cfg.device
+            )
+            for key in buffer.obs_list[0].keys()
+        }
+        act_tensors = {
+            key: torch.tensor(
+                np.array([a[key] for a in buffer.actions_list]),
+                dtype=torch.long,
+                device=self.cfg.device
+            )
+            for key in buffer.actions_list[0].keys()
+        }
+        old_log_probs = torch.tensor(buffer.log_probs, dtype=torch.float32, device=self.cfg.device)
+        h_tensor = torch.tensor(np.array(buffer.lstm_h), dtype=torch.float32, device=self.cfg.device)
+        c_tensor = torch.tensor(np.array(buffer.lstm_c), dtype=torch.float32, device=self.cfg.device)
+
+        metrics = {"policy_loss": 0.0, "value_loss": 0.0, "entropy": 0.0}
+        num_updates = 0
+
+        # Цикл эпох PPO по мини-батчам
+        indices = np.arange(batch_size)
+        for _ in range(self.cfg.ppo_epochs):
+            np.random.shuffle(indices)
+            for start in range(0, batch_size, self.cfg.mini_batch_size):
+                end = start + self.cfg.mini_batch_size
+                mb_idx = indices[start:end]
+
+                mb_obs = {k: v[mb_idx] for k, v in obs_tensors.items()}
+                mb_acts = {k: v[mb_idx] for k, v in act_tensors.items()}
+                mb_lstm = (h_tensor[mb_idx], c_tensor[mb_idx])
+
+                _, new_log_probs, entropy, new_values, _ = self.model.get_action_and_value(
+                    mb_obs, mb_lstm, provided_actions=mb_acts
+                )
+
+                # Отношение вероятностей новой и старой политики: r_t(theta)
+                log_ratio = new_log_probs - old_log_probs[mb_idx]
+                ratio = torch.exp(log_ratio)
+
+                # Суррогатная функция потерь PPO (Clipped Surrogate Objective)
+                mb_adv = advantages[mb_idx]
+                surr1 = ratio * mb_adv
+                surr2 = torch.clamp(ratio, 1.0 - self.cfg.clip_eps, 1.0 + self.cfg.clip_eps) * mb_adv
+                policy_loss = -torch.min(surr1, surr2).mean()
+
+                # Ошибка критика (MSE)
+                value_loss = F.mse_loss(new_values, returns[mb_idx])
+
+                # Итоговый лосс
+                entropy_loss = entropy.mean()
+                loss = policy_loss + self.cfg.value_loss_coef * value_loss - self.cfg.entropy_coef * entropy_loss
+
+                self.optimizer.zero_grad()
+                loss.backward()
+                nn.utils.clip_grad_norm_(self.model.parameters(), self.cfg.max_grad_norm)
+                self.optimizer.step()
+
+                metrics["policy_loss"] += policy_loss.item()
+                metrics["value_loss"] += value_loss.item()
+                metrics["entropy"] += entropy_loss.item()
+                num_updates += 1
+
+        return {k: v / max(1, num_updates) for k, v in metrics.items()}
+
+
+# =====================================================================
+# 6. ТОЧКА ВХОДА: ЗАПУСК СИМУЛЯЦИИ И ОБУЧЕНИЯ ИИ
+# =====================================================================
+def obs_to_tensor(obs: Dict[str, np.ndarray], device: str) -> Dict[str, torch.Tensor]:
+    """Преобразует одиночное наблюдение numpy в батч-тензор размерности [1, ...]"""
+    return {
+        k: torch.tensor(v, device=device).unsqueeze(0)
+        for k, v in obs.items()
+    }
+
+
+def main():
+    config = DotaAIConfig()
+    print(f"[*] Инициализация архитектуры Dota 2 AI на устройстве: {config.device}")
+
+    env = Dota2SimulatedEnv(config)
+    model = Dota2ActorCriticNet(config).to(config.device)
+    trainer = DotaPPOTrainer(model, config)
+    buffer = RolloutBuffer(config)
+
+    total_params = sum(p.numel() for p in model.parameters() if p.requires_grad)
+    print(f"[*] Общее число обучаемых параметров сети: {total_params:,}")
+
+    num_iterations = 5
+    obs = env.reset()
+    lstm_state = model.init_hidden(batch_size=1)
+
+    for iteration in range(1, num_iterations + 1):
+        buffer.clear()
+        ep_rewards = []
+        current_ep_reward = 0.0
+
+        # Фаза 1: Сбор опыта в среде (Self-Play Rollout)
+        model.eval()
+        for _ in range(config.rollout_steps):
+            obs_t = obs_to_tensor(obs, config.device)
+            with torch.no_grad():
+                actions_t, log_prob_t, _, value_t, next_lstm_state = model.get_action_and_value(
+                    obs_t, lstm_state
+                )
+
+            action_np = {k: int(v.item()) for k, v in actions_t.items()}
+            next_obs, ind_rew, team_rew, done = env.step(action_np)
+
+            buffer.add(
+                obs=obs,
+                action=action_np,
+                log_prob=float(log_prob_t.item()),
+                value=float(value_t.item()),
+                ind_reward=ind_rew,
+                team_reward=team_rew,
+                done=done,
+                lstm_state=lstm_state
+            )
+
+            current_ep_reward += ind_rew
+            obs = next_obs
+            lstm_state = next_lstm_state
+
+            if done:
+                ep_rewards.append(current_ep_reward)
+                current_ep_reward = 0.0
+                obs = env.reset()
+                lstm_state = model.init_hidden(batch_size=1)
+
+        # Оценка последнего состояния для замыкания GAE
+        with torch.no_grad():
+            _, _, _, last_val_t, _ = model.get_action_and_value(
+                obs_to_tensor(obs, config.device), lstm_state
+            )
+            last_value = float(last_val_t.item())
+
+        # Фаза 2: Обновление весов нейросети по алгоритму PPO
+        model.train()
+        stats = trainer.update(buffer, last_value)
+
+        avg_rew = np.mean(ep_rewards) if ep_rewards else current_ep_reward
+        print(
+            f"Итерация {iteration:02d}/{num_iterations:02d} | "
+            f"Средний Reward: {avg_rew:+6.2f} | "
+            f"Policy Loss: {stats['policy_loss']:7.4f} | "
+            f"Value Loss: {stats['value_loss']:7.4f} | "
+            f"Энтропия: {stats['entropy']:6.3f}"
+        )
+
+
+if __name__ == "__main__":
+    main()
